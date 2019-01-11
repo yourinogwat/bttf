@@ -18,7 +18,7 @@ body{
 .main-nav{
 	background-image:url(https://media.comicbook.com/2018/07/back-to-the-future-trilogy-1122951-1280x0.jpeg);
 	background-repeat:no-repeat;
-	background-size:cover;	background-position:center -60px; padding: 100px 20px 0px 20px;
+	background-size:cover;	background-position:center -60px; padding: 1000px 20px 0px 20px;
 }
 
 .main-nav a{
